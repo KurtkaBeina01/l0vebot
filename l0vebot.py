@@ -6,7 +6,7 @@ import glob
 
 
 
-TOKEN = "5051483690:AAH3bPHJAqShgDhDeLmjzkbeYxU2tk8vsqQ"
+TOKEN = ""
 
 bot = telebot.TeleBot(TOKEN)
 
